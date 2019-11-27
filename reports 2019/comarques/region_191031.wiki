@@ -1,0 +1,433 @@
+{|class="wikitable sortable" 
+!Id
+!Poblacio
+!Residential No Name(m)
+!Num Residential No Name
+!Living Street No Name(m)
+!Num Living Street No Name
+!Total No Name(m)
+!Total (Residential + Living street)
+!Porcentatge Restant
+!Resta
+|-
+| 2810808
+| Alta Ribagorça
+| align="right" | 0
+| align="right" | 0
+| align="right" | 339
+| align="right" | 4
+| align="right" | 339
+| align="right" | 30297
+| align="right" | 1.1%
+|-
+| 2822130
+| Alt Camp
+| align="right" | 19159
+| align="right" | 141
+| align="right" | 583
+| align="right" | 22
+| align="right" | 19742
+| align="right" | 328488
+| align="right" | 6.0%
+|-
+| 2177382
+| Alt Empordà
+| align="right" | 1392
+| align="right" | 19
+| align="right" | 143
+| align="right" | 2
+| align="right" | 1535
+| align="right" | 934614
+| align="right" | 0.2%
+|-
+| 2809672
+| Alt Penedès
+| align="right" | 18
+| align="right" | 1
+| align="right" | 62
+| align="right" | 3
+| align="right" | 80
+| align="right" | 526217
+| align="right" | 0.0%
+|-
+| 2810001
+| Alt Urgell
+| align="right" | 174
+| align="right" | 2
+| align="right" | 6205
+| align="right" | 60
+| align="right" | 6379
+| align="right" | 120058
+| align="right" | 5.3%
+|-
+| 2808804
+| Anoia
+| align="right" | 1968
+| align="right" | 24
+| align="right" | 782
+| align="right" | 29
+| align="right" | 2750
+| align="right" | 633116
+| align="right" | 0.4%
+|-
+| 2350331
+| Bages
+| align="right" | 30764
+| align="right" | 357
+| align="right" | 1560
+| align="right" | 23
+| align="right" | 32324
+| align="right" | 658726
+| align="right" | 4.9%
+|-
+| 2824935
+| Baix Camp
+| align="right" | 29202
+| align="right" | 309
+| align="right" | 1637
+| align="right" | 23
+| align="right" | 30839
+| align="right" | 771782
+| align="right" | 4.0%
+|-
+| 2826423
+| Baix Ebre
+| align="right" | 1629
+| align="right" | 27
+| align="right" | 338
+| align="right" | 12
+| align="right" | 1967
+| align="right" | 471948
+| align="right" | 0.4%
+|-
+| 2805694
+| Baix Empordà
+| align="right" | 2675
+| align="right" | 55
+| align="right" | 1017
+| align="right" | 12
+| align="right" | 3692
+| align="right" | 979920
+| align="right" | 0.4%
+|-
+| 2809457
+| Baix Llobregat
+| align="right" | 10935
+| align="right" | 300
+| align="right" | 6
+| align="right" | 1
+| align="right" | 10941
+| align="right" | 1769187
+| align="right" | 0.6%
+|-
+| 2822410
+| Baix Penedès
+| align="right" | 58
+| align="right" | 2
+| align="right" | 57
+| align="right" | 3
+| align="right" | 114
+| align="right" | 733321
+| align="right" | 0.0%
+|-
+| 2417889
+| Barcelonès
+| align="right" | 0
+| align="right" | 0
+| align="right" | 245
+| align="right" | 1
+| align="right" | 245
+| align="right" | 1305335
+| align="right" | 0.0%
+|-
+| 358838
+| Berguedà
+| align="right" | 554
+| align="right" | 12
+| align="right" | 1531
+| align="right" | 33
+| align="right" | 2084
+| align="right" | 158123
+| align="right" | 1.3%
+|-
+| 2805972
+| Cerdanya
+| align="right" | 644
+| align="right" | 14
+| align="right" | 2887
+| align="right" | 32
+| align="right" | 3531
+| align="right" | 208306
+| align="right" | 1.7%
+|-
+| 2822039
+| Conca de Barberà
+| align="right" | 12215
+| align="right" | 157
+| align="right" | 871
+| align="right" | 20
+| align="right" | 13087
+| align="right" | 137332
+| align="right" | 9.5%
+|-
+| 2809538
+| Garraf
+| align="right" | 0
+| align="right" | 0
+| align="right" | 0
+| align="right" | 0
+| align="right" | 0
+| align="right" | 569945
+| align="right" | 0.0%
+|-
+| 2819870
+| Garrigues
+| align="right" | 15364
+| align="right" | 221
+| align="right" | 605
+| align="right" | 12
+| align="right" | 15969
+| align="right" | 123565
+| align="right" | 12.9%
+|-
+| 2806999
+| Garrotxa
+| align="right" | 366
+| align="right" | 6
+| align="right" | 1457
+| align="right" | 23
+| align="right" | 1823
+| align="right" | 257044
+| align="right" | 0.7%
+|-
+| 2807130
+| Gironès
+| align="right" | 1647
+| align="right" | 23
+| align="right" | 1228
+| align="right" | 20
+| align="right" | 2874
+| align="right" | 617360
+| align="right" | 0.5%
+|-
+| 2140187
+| Maresme
+| align="right" | 54337
+| align="right" | 576
+| align="right" | 7357
+| align="right" | 85
+| align="right" | 61694
+| align="right" | 1345412
+| align="right" | 4.6%
+|-
+| 4791885
+| Moianès
+| align="right" | 12600
+| align="right" | 135
+| align="right" | 135
+| align="right" | 2
+| align="right" | 12735
+| align="right" | 130187
+| align="right" | 9.8%
+|-
+| 2827413
+| Montsià
+| align="right" | 772
+| align="right" | 9
+| align="right" | 483
+| align="right" | 3
+| align="right" | 1255
+| align="right" | 337233
+| align="right" | 0.4%
+|-
+| 2816276
+| Noguera
+| align="right" | 41260
+| align="right" | 504
+| align="right" | 4877
+| align="right" | 85
+| align="right" | 46137
+| align="right" | 255117
+| align="right" | 18.1%
+|-
+| 2422857
+| Osona
+| align="right" | 67596
+| align="right" | 807
+| align="right" | 5184
+| align="right" | 59
+| align="right" | 72781
+| align="right" | 727176
+| align="right" | 10.0%
+|-
+| 2810954
+| Pallars Jussà
+| align="right" | 134
+| align="right" | 2
+| align="right" | 878
+| align="right" | 22
+| align="right" | 1012
+| align="right" | 105225
+| align="right" | 1.0%
+|-
+| 2810705
+| Pallars Sobirà
+| align="right" | 0
+| align="right" | 0
+| align="right" | 7728
+| align="right" | 81
+| align="right" | 7728
+| align="right" | 75799
+| align="right" | 10.2%
+|-
+| 2807146
+| Pla de l'Estany
+| align="right" | 0
+| align="right" | 0
+| align="right" | 3382
+| align="right" | 51
+| align="right" | 3382
+| align="right" | 151715
+| align="right" | 2.2%
+|-
+| 2819346
+| Pla d'Urgell
+| align="right" | 29913
+| align="right" | 356
+| align="right" | 81
+| align="right" | 1
+| align="right" | 29994
+| align="right" | 225684
+| align="right" | 13.3%
+|-
+| 2826145
+| Priorat
+| align="right" | 15414
+| align="right" | 226
+| align="right" | 286
+| align="right" | 5
+| align="right" | 15701
+| align="right" | 73351
+| align="right" | 21.4%
+|-
+| 2829952
+| Ribera d'Ebre
+| align="right" | 19831
+| align="right" | 224
+| align="right" | 476
+| align="right" | 12
+| align="right" | 20307
+| align="right" | 129403
+| align="right" | 15.7%
+|-
+| 2806754
+| Ripollès
+| align="right" | 432
+| align="right" | 7
+| align="right" | 355
+| align="right" | 4
+| align="right" | 787
+| align="right" | 133005
+| align="right" | 0.6%
+|-
+| 2815579
+| Segarra
+| align="right" | 28839
+| align="right" | 425
+| align="right" | 1140
+| align="right" | 17
+| align="right" | 29979
+| align="right" | 159764
+| align="right" | 18.8%
+|-
+| 2819857
+| Segrià
+| align="right" | 46398
+| align="right" | 462
+| align="right" | 1596
+| align="right" | 22
+| align="right" | 47994
+| align="right" | 606433
+| align="right" | 7.9%
+|-
+| 368462
+| Selva
+| align="right" | 3857
+| align="right" | 62
+| align="right" | 831
+| align="right" | 11
+| align="right" | 4688
+| align="right" | 983852
+| align="right" | 0.5%
+|-
+| 2809162
+| Solsonès
+| align="right" | 625
+| align="right" | 9
+| align="right" | 104
+| align="right" | 5
+| align="right" | 729
+| align="right" | 76922
+| align="right" | 0.9%
+|-
+| 2822691
+| Tarragonès
+| align="right" | 54916
+| align="right" | 715
+| align="right" | 1143
+| align="right" | 15
+| align="right" | 56060
+| align="right" | 903523
+| align="right" | 6.2%
+|-
+| 2829953
+| Terra Alta
+| align="right" | 4103
+| align="right" | 50
+| align="right" | 0
+| align="right" | 0
+| align="right" | 4103
+| align="right" | 74708
+| align="right" | 5.5%
+|-
+| 2818895
+| Urgell
+| align="right" | 41794
+| align="right" | 509
+| align="right" | 470
+| align="right" | 13
+| align="right" | 42264
+| align="right" | 202729
+| align="right" | 20.8%
+|-
+| 2810776
+| Val d'Aran
+| align="right" | 88
+| align="right" | 2
+| align="right" | 1472
+| align="right" | 32
+| align="right" | 1560
+| align="right" | 67685
+| align="right" | 2.3%
+|-
+| 2350067
+| Vallès Occidental
+| align="right" | 52198
+| align="right" | 801
+| align="right" | 3819
+| align="right" | 48
+| align="right" | 56018
+| align="right" | 2298770
+| align="right" | 2.4%
+|-
+| 2417929
+| Vallès Oriental
+| align="right" | 106254
+| align="right" | 1103
+| align="right" | 3888
+| align="right" | 48
+| align="right" | 110142
+| align="right" | 1726112
+| align="right" | 6.4%
+|-
+|}
